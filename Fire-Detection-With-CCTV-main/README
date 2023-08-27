@@ -1,0 +1,30 @@
+# FIRE DETECTION WITH SURVEILLANCE CAMERA USING OPEN SOURCE COMPUTER VISION
+# Description
+    The purpose of the project is to solve the existing problem of unreliable
+fire detection systems used in industrial warehouses. The project is aimed at
+using surveillance cameras in order to detect and monitor the occurrence of fire.
+Since the cameras are already installed in places, this system is aimed at
+diminishing the disadvantages of false alarm, making the system cost effective
+and a fast method of detecting fire. The system uses Open Source Computer
+Vision, also known as OpenCV, is an open source freeware which is aimed at
+computer vision.
+
+# Pre-Requirements
+1. Project requirements:
+	Latest version python installed in system.
+	https://www.python.org/downloads/
+	While making this project using Python 3.9.5
+
+2. After Installing Python open command promot and add libraries.
+	Commands listed below:
+		pip install opencv-contrib-python
+		pip install opencv-python
+		pip install threading
+		pip install playsound
+		
+
+3. search IDLE in start bar and Open Python IDLE
+
+4. Link of code will be in discription.
+
+5. Create twilio account and link with code to get message
