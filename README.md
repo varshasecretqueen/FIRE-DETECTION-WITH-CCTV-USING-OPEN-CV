@@ -1,4 +1,4 @@
-                                                                           FIRE-DETECTION-WITH-CCTV-USING-OPEN-CV
+                                          FIRE-DETECTION-WITH-CCTV-USING-OPEN-CV
 
   *  As part of my coursework in computer science, I worked on a project to develop a fire detection system using surveillance camera and OpenCV. 
 The goal was to create an efficient and accurate method for detecting fires in real-time from camera footage. The main challenge was designing an 
